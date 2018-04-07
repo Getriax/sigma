@@ -1,0 +1,127 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+.container-flex {
+    height: 100vh;
+}
+#top-row {
+    background-color: #304440;
+    height: 10vh;
+    color: whitesmoke;
+    border-bottom: solid 1px;
+}
+#center-row {
+    height: 90vh;
+    background-color: antiquewhite;
+}
+.corner-cel {
+    background-color: #CE3ECB;
+}
+.center-cel {
+    background-color: bisque;
+}
+#main-row {
+    height: 100vh;
+   
+}
+header {
+    border-right: solid 5px;
+}
+.my-btn{
+    background-color: aquamarine;
+    color: darkslategrey;
+    border: solid 1px;
+}
+.my-btn:hover{
+    background-color: aqua;
+    color: firebrick;
+    border: solid 1px;
+}
+.mgn {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.list {
+    height: 150px;
+    background-color: azure;
+    border-bottom: solid 1px;
+    width: 100%;
+}
+.list:hover {
+    background-color: navajowhite;
+}
+.element {
+    border-right: solid 0.5px;
+}
+.img {
+    max-height: 140px;
+}
+.scroll{
+    overflow-y: scroll;
+}
+.nav-list {
+    height: 70px;
+    width: 100%;
+}
+.drop-down {
+    background-color: antiquewhite;
+}
+.max {
+    height: 70px;
+    margin: 0;
+}
+#bgcol {
+    background-color: whitesmoke;
+}
+.form-my{
+    background-color: beige;
+}
+.form-my:focus{
+    height: 50px;
+    border-color: dimgrey;
+    background-color: blanchedalmond;
+}
+.scrollx{
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+    max-height: 100%;
+    display: inline-block;
+    white-space: nowrap;
+}
+#texta {
+    background-color: beige;
+}
+#texta:focus {
+    background-color: blanchedalmond;
+}
+.myimg {
+    max-width: 100px;
+}
+.maxh {
+    max-height: 100%;
+    height: 100%;
+}
+#forms {
+    height: 70%;
+    width:100%;
+}
+#pictures {
+    height: 30%;
+    width:100%;
+}
+#error {
+    color: orangered;
+}
+#logout {
+    color: forestgreen;
+}
+.hseven {
+	max-height: 300px;
+	height: 300px;
+} 
+.hthree {
+	max-height: 30%;
+	height: 100px;
+}
